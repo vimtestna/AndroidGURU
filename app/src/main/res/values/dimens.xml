@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="item_horizontal_margin">8dp</dimen>
+    <dimen name="project_text">16sp</dimen>
+
+</resources>

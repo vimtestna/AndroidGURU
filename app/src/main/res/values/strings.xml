@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wheather Forcast</string>
+
+
+    <string name="date">Date</string>
+
+
+    <string name="suff">%s C</string>
+    <string name="temp_list">temp list</string>
+
+    <string name="temperature">Temperature</string>
+
+
+
+</resources>
